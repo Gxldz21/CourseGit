@@ -6,7 +6,7 @@
     transform: translateX(-120%);
   }
   to {
-    transform: translateX(0);
+    transform: translateX(10);
   }
 }
 
@@ -19,7 +19,8 @@ h1 {
   position: relative;
   font-family: "Montserrat", sans-serif;
   font-size: 8em;
-  font-weight: 700;
+  font-weight: 42px;
+
 }
 
 h2 {
